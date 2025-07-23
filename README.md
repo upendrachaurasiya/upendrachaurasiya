@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my personal portfolio website [https://codeupendra.pythonanywhere.com](https://codeupendra.pythonanywhere.com)
 
-👋 My Flipkart clone project is available at [https://yourcart.pythonanywhere.com](https://yourcart.pythonanywhere.com)
+- 👋 My Flipkart clone project is available at [https://yourcart.pythonanywhere.com](https://yourcart.pythonanywhere.com)
 
 - 📝 I regularly write articles on [https://x.com/UPENDRA_BCA](https://x.com/UPENDRA_BCA)
 
