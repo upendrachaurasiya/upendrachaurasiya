@@ -371,34 +371,52 @@ software systems.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/upendrachaurasiya/upendrachaurasiya/output/github-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/upendrachaurasiya/upendrachaurasiya/output/github-snake.svg"
+/>
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/upendrachaurasiya/upendrachaurasiya/output/github-snake.svg"
+ width="100%"
+/>
+
+</picture>
+
+</div>
+
+
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 
-<img src="https://github-profile-trophy.vercel.app/?username=upendrachaurasiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+<img
+src="https://github-profile-trophy-tawny.vercel.app/?username=upendrachaurasiya&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10"
+alt="GitHub Profile Trophies"
+width="100%"
+/>
 
 </a>
 
 </div>
 
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="./github-snake.svg" width="100%">
-</picture>
-
-</div>
 
 ---
-
 # 🎯 Current Focus
 
 <div align="center">
