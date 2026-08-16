@@ -1,35 +1,481 @@
-![logo](https://github.com/upendrachaurasiya/upendrachaurasiya/blob/main/github-header-image1.png)
-<h1 align="center">Hi 👋, I'm Upendra Kumar Chaurasiya.</h1>
-<h3 align="center">A passionate full stack developer and software engineer.</h3>
-<img align="right" alt="coading" width="400" src="[https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://images.pexels.com/photos/29279567/pexels-photo-29279567.jpeg?_gl=1*1mjnxdy*_ga*MTcwNjY4NDg1LjE3NjIwMDg1NDI.*_ga_8JE65Q40S6*czE3ODQxMTA1NTUkbzIkZzEkdDE3ODQxMTA1OTMkajIyJGwwJGgw)">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upendrachaurasiya&label=Profile%20views&color=0e75b6&style=flat" alt="upendrachaurasiya" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Upendra%20Kumar%20Chaurasiya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20LangChain%20Developer%20%7C%20ML%20Engineer&descAlignY=60&descSize=18" width="100%" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/upendrachaurasiya](https://github.com/upendrachaurasiya)
+# 👋 Hi, I'm Upendra Kumar Chaurasiya
 
-- 👨‍💻 All of my projects are available at my personal portfolio website [https://codeupendra.pythonanywhere.com](https://codeupendra.pythonanywhere.com)
+### 🤖 Generative AI Engineer | 🧠 LangChain Developer | 📊 ML Engineer | ⚡ Python Backend Developer
 
-- 👋 My Flipkart clone project is available at [https://yourcart.pythonanywhere.com](https://yourcart.pythonanywhere.com)
-
-- 📝 I regularly write articles on [https://x.com/UPENDRA_BCA](https://x.com/UPENDRA_BCA)
-
-- 📫 How to reach me **cupendrakumar897@gmail.com**
-
-- ⚡ Fun fact **playing cricket**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/upendra_bca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="upendra_bca" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/upendra-kumar-chaurasiya-b7a733281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upendra-kumar-chaurasiya-b7a733281/" height="30" width="40" /></a>
-<a href="https://instagram.com/chaurasiya_upendrakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaurasiya_upendrakumar" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/upendrachaurasiya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/upendra-kumar-chaurasiya-b7a733281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cupendrakumar897@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/UPENDRA_BCA">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=upendrachaurasiya&label=PROFILE%20VIEWS&color=1d4ed8&style=for-the-badge" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upendrachaurasiya&show_icons=true&locale=en&layout=compact" alt="upendrachaurasiya" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upendrachaurasiya&show_icons=true&locale=en" alt="upendrachaurasiya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upendrachaurasiya&" alt="upendrachaurasiya" /></p>
+## 🧠 About Me
 
+```text
+Generative AI Engineer focused on building intelligent, production-ready
+applications using LLMs, RAG pipelines, AI Agents and modern Python backends.
+
+I enjoy turning complex AI workflows into modular, scalable and practical
+software systems.
+```
+
+### What I work with
+
+* 🤖 **LLM Applications & Generative AI**
+* 🔗 **LangChain, LCEL, LangGraph & LangSmith**
+* 📚 **RAG, Semantic Search & Vector Databases**
+* 🧩 **AI Agents, Tool Calling & ReAct Workflows**
+* ⚡ **FastAPI, Django & REST APIs**
+* 📊 **Machine Learning with Scikit-learn**
+* 🧠 **Hugging Face Transformers & Embeddings**
+* 🗄️ **SQL, MySQL & SQLite**
+* 🐳 **Git, GitHub, Docker & Deployment**
+
+---
+
+# ⚡ AI Engineering Stack
+
+<div align="center">
+
+### 🧠 Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangSmith-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-9333EA?style=for-the-badge" />
+
+### 🔎 Retrieval & Vector Search
+
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Weaviate-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sentence_Transformers-16A34A?style=for-the-badge" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,mysql,sqlite" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jupyter" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI Knowledge Base
+
+**RAG-powered PDF Chatbot**
+
+**Stack**
+
+`LangChain` `LCEL` `FAISS` `ChromaDB`
+`FastAPI` `OpenAI` `LangSmith`
+
+### Highlights
+
+* 📄 PDF document understanding
+* 🔍 Semantic search
+* 🧩 Recursive text splitting
+* 🧠 Embedding generation
+* 🔗 LCEL retrieval pipeline
+* 💬 Conversation memory
+* 🛠️ Custom output parsers
+* 📡 FastAPI REST APIs
+* 🔎 LangSmith tracing
+
+</td>
+
+<td width="50%">
+
+## 🧩 AI Agent
+
+**Tool Calling + LangGraph**
+
+**Stack**
+
+`LangChain` `LangGraph` `FastAPI` `Python`
+
+### Highlights
+
+* 🧠 ReAct-style reasoning
+* 🔧 Custom tool integrations
+* 🔄 Multi-step execution
+* 🕸️ LangGraph state graphs
+* 💬 Conversation state
+* 📦 Pydantic structured output
+* ⚡ Streaming workflows
+* 🏗️ Modular backend architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ▶️ YouTube AI Chatbot
+
+**Ask questions about YouTube videos**
+
+**Stack**
+
+`LangChain` `FAISS` `LLM`
+`YouTube Transcript API`
+
+### Highlights
+
+* 🎥 Transcript extraction
+* 🧠 Embedding generation
+* 🔎 Semantic similarity search
+* 📚 Retrieval chains
+* ✍️ Prompt templates
+* 💬 Context-aware responses
+
+</td>
+
+<td width="50%">
+
+## 🛒 Flipkart Clone
+
+**Django E-Commerce Platform**
+
+**Stack**
+
+`Django` `REST APIs` `MySQL` `Razorpay`
+
+### Highlights
+
+* 🔐 Secure authentication
+* 🛍️ Shopping cart
+* 💳 Razorpay integration
+* 🔌 REST APIs
+* 🗄️ SQL optimization
+* 📱 Responsive frontend
+* 🏗️ Reusable backend architecture
+
+**[Live Project →](https://yourcart.pythonanywhere.com)**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Machine Learning
+
+<div align="center">
+
+| Project                          | Approach       | Technologies                             |
+| :------------------------------- | :------------- | :--------------------------------------- |
+| 📉 **Customer Churn Prediction** | Classification | Scikit-learn · Pandas · SQL              |
+| 🏠 **House Price Prediction**    | Regression     | Scikit-learn · EDA · Feature Engineering |
+
+</div>
+
+### 📉 Customer Churn Prediction
+
+* Logistic Regression
+* Random Forest
+* Feature engineering
+* Missing-value treatment
+* Class imbalance handling
+* Accuracy / Precision / Recall
+* F1-Score / ROC-AUC
+* Automated preprocessing pipelines
+
+### 🏠 House Price Prediction
+
+* Regression models
+* Exploratory Data Analysis
+* Feature scaling
+* Feature selection
+* Hyperparameter optimization
+* RMSE & R² evaluation
+
+---
+
+# 🏗️ AI Architecture
+
+<div align="center">
+
+```text
+                    ┌─────────────────────┐
+                    │       USER          │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    FastAPI / API    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   LangChain / LCEL  │
+                    └──────────┬──────────┘
+                               │
+                 ┌─────────────┼─────────────┐
+                 ▼             ▼             ▼
+          ┌────────────┐ ┌────────────┐ ┌────────────┐
+          │   Prompt   │ │ Retriever  │ │   Tools    │
+          │  Template  │ │    / RAG   │ │   / Agent  │
+          └─────┬──────┘ └─────┬──────┘ └─────┬──────┘
+                │              │              │
+                └──────────────┼──────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │        LLM          │
+                    │ OpenAI / Groq /     │
+                    │ Ollama / HF         │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Structured Output   │
+                    │ / Response Parser   │
+                    └─────────────────────┘
+```
+
+</div>
+
+---
+
+# 🧰 Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 💻 Programming
+
+* Python
+* SQL
+* JavaScript
+* OOP
+* Data Structures
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🤖 Generative AI
+
+* LLMs
+* RAG
+* Prompt Engineering
+* AI Agents
+* Multi-Agent Systems
+* Tool Calling
+* Function Calling
+* ReAct
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🔗 LangChain
+
+* LangChain
+* LCEL
+* LangGraph
+* LangSmith
+* LangServe
+* Chains
+* Retrievers
+* Memory
+* Output Parsers
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🧠 Machine Learning
+
+* Scikit-learn
+* Pandas
+* NumPy
+* Classification
+* Regression
+* Feature Engineering
+* Model Evaluation
+
+</td>
+
+<td valign="top">
+
+### 🧬 Deep Learning
+
+* PyTorch
+* Hugging Face
+* Transformers
+* Sentence Transformers
+* Tokenization
+* Embeddings
+
+</td>
+
+<td valign="top">
+
+### 🗄️ Databases
+
+* MySQL
+* SQLite
+* FAISS
+* ChromaDB
+* Pinecone
+* Weaviate
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=upendrachaurasiya&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Upendra's%20GitHub%20Activity" width="100%" />
+
+</div>
+
+> Activity Graph is generated dynamically from GitHub activity. The current project documentation identifies `github-readme-activity-graph.vercel.app` as the canonical deployment.
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<img src="https://github-profile-trophy.vercel.app/?username=upendrachaurasiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="./github-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│   🤖 Production-ready RAG Applications             │
+│                                                    │
+│   🧩 LangGraph AI Agent Workflows                  │
+│                                                    │
+│   🔗 Multi-Agent AI Architectures                  │
+│                                                    │
+│   ⚡ LLM-powered FastAPI Backends                  │
+│                                                    │
+│   🔎 Semantic Search & Vector Databases            │
+│                                                    │
+│   🛠️ AI Workflow Automation                       │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🎓 Education
+
+### Bachelor of Computer Applications — BCA
+
+**JS University, Shikohabad**
+**November 2024 · Grade A**
+
+---
+
+# 📜 Certifications
+
+* 🐍 Machine Learning with Python
+* 💻 Python Programming
+* 🤖 Generative AI Fundamentals
+* 🌐 Django
+* 🛠️ Advanced Web Development
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/upendra-kumar-chaurasiya-b7a733281/">
+<img src="https://img.shields.io/badge/LinkedIn-Upendra%20Kumar%20Chaurasiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:cupendrakumar897@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-cupendrakumar897%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://x.com/UPENDRA_BCA">
+<img src="https://img.shields.io/badge/X-@UPENDRA__BCA-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://github.com/upendrachaurasiya">
+<img src="https://img.shields.io/badge/GitHub-upendrachaurasiya-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building intelligent systems with Python & Generative AI.
+
+**LangChain · LangGraph · RAG · AI Agents · FastAPI · Machine Learning**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%" />
+
+</div>
