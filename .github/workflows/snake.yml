@@ -1,0 +1,37 @@
+name: Generate GitHub Snake
+
+on:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
+push:
+branches:
+- main
+
+permissions:
+contents: write
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Generate Snake
+    uses: Platane/snk/svg-only@v3
+    with:
+      github_user_name: upendrachaurasiya
+      outputs: |
+        dist/github-snake.svg?palette=github-light
+        dist/github-snake-dark.svg?palette=github-dark
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Publish Snake
+    uses: crazy-max/ghaction-github-pages@v4
+    with:
+      build_dir: dist
+      build_branch: output
+    env:
+      GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+```
